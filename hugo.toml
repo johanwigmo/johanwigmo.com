@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Johan Wigmo'
 theme = 'typo'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # Google analytics code
 #googleAnalytics = "G-xxxxxxxxx"
 
