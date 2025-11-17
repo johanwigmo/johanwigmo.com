@@ -1,0 +1,70 @@
+baseURL = 'https://johanwigmo.com/'
+languageCode = 'en-us'
+title = 'Johan Wigmo'
+theme = 'typo'
+
+# Google analytics code
+#googleAnalytics = "G-xxxxxxxxx"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+description = "A digital notepad by Johan Wigmo"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+showFooter = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hello,'
+homeIntroContent = """
+I'm Johan, an app developer who loves building mobile apps that make people's lives a little bit easier and more enjoyable. This is my digital notepad where I share thoughts on **app development**, **programming adventures**, and **whatever** else that sparks my interests. 
+"""
+
+# Collection to display on home
+# Uncomment this when we have posts to show
+# homeCollectionTitle = 'Posts'
+# homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = false
+home = "~"
+
+# Main menu pages
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+[[params.menu]]
+name = "wigmo.dev"
+url = "https://wigmo.dev"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+# [params.giscus]
+# enable = false
+# repo = "user/repo"
+# repoid = "repoId"
+# category = "General"
+# categoryid = "categoryId"
+# mapping = "pathname"
+# theme = "preferred_color_scheme"
+
