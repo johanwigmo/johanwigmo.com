@@ -4,7 +4,7 @@ title = "About"
 
 **TL:DR** - I'm an app developer, a father, and a husband.
 
-You can see some of my work on [GitHub](http://github.com/johanwigmo), and you can connect with me on [LinkedIn](https://se.linkedin.com/in/johanwigmo).  
+You will find some of my work on [GitHub](http://github.com/johanwigmo), and you can connect with me on [LinkedIn](https://se.linkedin.com/in/johanwigmo).  
 
 You can read a [short form resume](online-resume) or download a more extensive [resume as a PDF](/about/johanwigmo-resume_2511.pdf).
 
@@ -19,9 +19,7 @@ I could keep this all to myself, but publish it to the _public_ will make me thi
 
 ## Who I Am
 
-I'm a husband and a father of two, living in a cosy area outside Gothenburg, Sweden. I've been an employed consultant for 10+ years but since the end of 2025 I work for myself with [Wigmo Development](https://wigmo.dev), doing consulting 
-
-decided to go solo in 2025 with [Wigmo Development](https://wigmo.dev), doing consulting work during the days and working on my own projects during the nights. Balancing family, work and personal growth keeps me busy, but it's a challenge I enjoy. 
+I'm a husband and a father of two, living in a cosy area outside Gothenburg, Sweden. I've been an employed consultant for 10+ years but since the end of 2025 I work for myself with [Wigmo Development](https://wigmo.dev), doing consulting work during the days and working on my own projects during the nights. Balancing family, work and personal growth keeps me busy, but it's a challenge I enjoy. 
 
 For fun, I love listening to music, taking time to zone out and recharge, or heading outdoors for a round of disc golf or a bike ride.  
 
