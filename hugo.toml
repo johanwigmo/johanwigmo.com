@@ -54,7 +54,7 @@ name = "about"
 url = "/about"
 
 [[params.menu]]
-name = "wigmo.dev"
+name = "wigmo.dev\u2197"
 url = "https://wigmo.dev"
 
 # Syntax highlight on code blocks
