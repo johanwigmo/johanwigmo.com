@@ -6,7 +6,7 @@ title = "About"
 
 You will find some of my work on [GitHub](http://github.com/johanwigmo), and you can connect with me on [LinkedIn](https://se.linkedin.com/in/johanwigmo).  
 
-You can read a [short form resume](online-resume) or download a more extensive [resume as a PDF](/about/johanwigmo-resume_2511.pdf).
+You can read a [short form resume](/about/online-resume) or download a more extensive [resume as a PDF](/about/johanwigmo-resume_2511.pdf).
 
 ---
 ## What is this
